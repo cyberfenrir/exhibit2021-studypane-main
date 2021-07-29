@@ -1,0 +1,71 @@
+.timerinput{
+    width:1.5rem;
+    //background: transparent;
+    border-style: none;
+    // border: 0 0 2px 0 solid black;
+    // background-color: #d4cfcf;
+    margin: .2rem;
+    // border-radius: 10px;
+    font-size: 1.2rem;
+
+
+}
+h4{
+    margin:0;
+    padding:.4rem;
+    //width: auto;
+}
+.timerheaders{
+    margin:0;
+    padding:.4rem;
+    font-size: 1.3rem;
+    font-weight: bolder;
+    
+    
+}
+
+.timersetpanel{
+    display: inline-block;
+    
+    
+}
+.settingbttns{
+    border: 0;
+    background:none;
+    padding: 0;
+    margin: 0;
+}
+
+.timerbttn{
+    border: 0;
+    background: none;
+}
+
+// .setbreak{
+//     float:right;
+// }
+
+// .setwork, .setbreak{
+//     display: inline-block;
+//     border: 1px solid;
+//     box-sizing: border-box;
+//     padding: .5rem;
+//     margin: .1rem;
+//     text-align: center;
+// }
+
+.countdown{
+     display: block;
+     text-align: center;
+     width: auto;
+     
+} 
+
+.settings{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    width: auto;
+    
+
+}
